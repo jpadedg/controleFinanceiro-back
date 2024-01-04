@@ -67,16 +67,13 @@ Excluir uma categoria -> /categorias/20 (Numero do ID a ser excluido)
 
 :warning: [Node](https://nodejs.org/en/download/)
 
-...
-
-Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação 
 
 ## Como rodar a aplicação :arrow_forward:
 
 No terminal, clone o projeto: 
 
 ```
-git clone [https://github.com/React-Bootcamp-WoMarkersCode/certificate-generator](https://github.com/jpadedg/controleFinanceiro-back.git)
+git clone https://github.com/jpadedg/controleFinanceiro-back.git
 ```
 
 ```
